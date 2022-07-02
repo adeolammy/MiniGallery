@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(125, 216, 178);
+
+}
+.container{
+    margin: auto;
+    border: 3px solid rgb(53, 4, 4);
+    width: 660px;   
+   
+}
+
+.main_focused_img img, img{
+     width: 100%;
+     
+     
+}
+.imgs{
+    display: grid;
+    grid-template-columns: repeat(4 1fr);   
+     
+}
